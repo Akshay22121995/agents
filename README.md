@@ -100,4 +100,4 @@ If you use this code please cite it as:
 <a id='Disclaimer'></a>
 ## Disclaimer
 
-This is not an official Google product.
+This is not official Google product.
